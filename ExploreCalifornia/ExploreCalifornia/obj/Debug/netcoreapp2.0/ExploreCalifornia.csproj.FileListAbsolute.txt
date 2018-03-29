@@ -1,0 +1,22 @@
+F:\SIT Teaching\SIT ICT2106_SoftwareDesign\Tri2_Jan2018\Labs\ExploreCalifornia-MVC\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.deps.json
+F:\SIT Teaching\SIT ICT2106_SoftwareDesign\Tri2_Jan2018\Labs\ExploreCalifornia-MVC\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.runtimeconfig.json
+F:\SIT Teaching\SIT ICT2106_SoftwareDesign\Tri2_Jan2018\Labs\ExploreCalifornia-MVC\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.runtimeconfig.dev.json
+F:\SIT Teaching\SIT ICT2106_SoftwareDesign\Tri2_Jan2018\Labs\ExploreCalifornia-MVC\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.dll
+F:\SIT Teaching\SIT ICT2106_SoftwareDesign\Tri2_Jan2018\Labs\ExploreCalifornia-MVC\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.pdb
+F:\SIT Teaching\SIT ICT2106_SoftwareDesign\Tri2_Jan2018\Labs\ExploreCalifornia-MVC\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.csprojResolveAssemblyReference.cache
+F:\SIT Teaching\SIT ICT2106_SoftwareDesign\Tri2_Jan2018\Labs\ExploreCalifornia-MVC\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.csproj.CoreCompileInputs.cache
+F:\SIT Teaching\SIT ICT2106_SoftwareDesign\Tri2_Jan2018\Labs\ExploreCalifornia-MVC\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.AssemblyInfoInputs.cache
+F:\SIT Teaching\SIT ICT2106_SoftwareDesign\Tri2_Jan2018\Labs\ExploreCalifornia-MVC\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.AssemblyInfo.cs
+F:\SIT Teaching\SIT ICT2106_SoftwareDesign\Tri2_Jan2018\Labs\ExploreCalifornia-MVC\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.dll
+F:\SIT Teaching\SIT ICT2106_SoftwareDesign\Tri2_Jan2018\Labs\ExploreCalifornia-MVC\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.pdb
+C:\Users\Mr Exatron\Desktop\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.deps.json
+C:\Users\Mr Exatron\Desktop\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.runtimeconfig.json
+C:\Users\Mr Exatron\Desktop\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.runtimeconfig.dev.json
+C:\Users\Mr Exatron\Desktop\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.dll
+C:\Users\Mr Exatron\Desktop\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.pdb
+C:\Users\Mr Exatron\Desktop\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.csprojResolveAssemblyReference.cache
+C:\Users\Mr Exatron\Desktop\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.csproj.CoreCompileInputs.cache
+C:\Users\Mr Exatron\Desktop\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.AssemblyInfoInputs.cache
+C:\Users\Mr Exatron\Desktop\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.AssemblyInfo.cs
+C:\Users\Mr Exatron\Desktop\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.dll
+C:\Users\Mr Exatron\Desktop\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.pdb
