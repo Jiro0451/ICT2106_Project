@@ -9,14 +9,13 @@ namespace ExploreCalifornia.Additional
 {
     public class AppLogCreator : IAppLogCreator
     {
-        List<string> Buffer;
+        private List<AppLog> Buffer;
         public const string DELIMITER = "*/-";
-        DataLayerStub dbs;
+        private const int MAX = 15;
 
-        public AppLogCreator(IDataLayerStub dataLayerStub)
+        public AppLogCreator()
         {
-            dbs = (DataLayerStub) dataLayerStub;
-            Buffer = new List<string>();
+            Buffer = new List<AppLog>();
             Console.WriteLine("New DataLogger created!");
         }
 
@@ -27,10 +26,9 @@ namespace ExploreCalifornia.Additional
 
         public void AddLog(Controller controller, string logType, DateTime timeStamp, string extras = null)
         {
-            AppLog temp = new AppLog(controller.GetType().ToString() + DELIMITER + logType, timeStamp);
-            string json = JsonConvert.SerializeObject(temp, Formatting.Indented);
-            Buffer.Add(json);
-            if (Buffer.Count == 10) { //When 10th log is added
+            AppLog temp = new AppLog(controller.GetType().ToString() + DELIMITER + logType, timeStamp, 0); //PARSE IN HOUSEHOLD ID.
+            Buffer.Add(temp);
+            if (Buffer.Count == MAX) { //When Nth log is added
                 pushLogs();
             }
             Console.WriteLine("Current buffer: ");
@@ -40,7 +38,7 @@ namespace ExploreCalifornia.Additional
         private void pushLogs()
         {
             Console.WriteLine("Logs pushed to db");
-            Buffer.ForEach(dbs.AddLog);
+            //CALL DATA LAYER METHOD
             Buffer.Clear(); //Clear buffer
         }
     }

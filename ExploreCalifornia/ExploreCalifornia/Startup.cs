@@ -28,7 +28,7 @@ namespace ExploreCalifornia
 
             services.AddMvc();
 
-            services.AddSingleton<IDataLayerStub, DataLayerStub>();
+            //services.AddSingleton<IDataLayerStub, DataLayerStub>();
             services.AddSingleton<IAppLogCreator, AppLogCreator>();
         }
 
